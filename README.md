@@ -11,5 +11,7 @@ Create a new component for the landing page. You can call it LandingPage.js. Thi
 
 Create a component for the Hero section. This section will display your hero product.
 
+Style your components using CSS or a CSS-in-JS solution like styled-components. Here's a simple CSS example for the HeroSection component:
+
 
 
