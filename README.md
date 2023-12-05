@@ -7,5 +7,9 @@ npx create-react-app landing-page
 
 cd landing-page
 
-Create a new component for the landing page. You can call it LandingPage.js. This component will contain the entire landing page structure.
+Create a new component for the landing page. You can call it LandingPage.js. This component will contain the entire landing page structure. 
+
+Create a component for the Hero section. This section will display your hero product.
+
+
 
