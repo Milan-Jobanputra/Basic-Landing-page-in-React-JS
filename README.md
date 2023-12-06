@@ -15,6 +15,8 @@ Style your components using CSS or a CSS-in-JS solution like styled-components. 
 
 Finally, at last start your React application:
 
+npm start
+
 
 
 
