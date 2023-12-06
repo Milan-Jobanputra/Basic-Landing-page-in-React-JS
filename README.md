@@ -17,6 +17,7 @@ Finally, at last start your React application:
 
 npm start
 
+You now have a basic landing page with a hero product section in React.js. Customize the content, styles, and additional sections to fit your specific needs. 
 
 
 
