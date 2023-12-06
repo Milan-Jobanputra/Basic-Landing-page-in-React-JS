@@ -13,5 +13,8 @@ Create a component for the Hero section. This section will display your hero pro
 
 Style your components using CSS or a CSS-in-JS solution like styled-components. Here's a simple CSS example for the HeroSection component:
 
+Finally, at last start your React application:
+
+
 
 
